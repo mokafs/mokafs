@@ -10,7 +10,3 @@ stuff that's stuck with me
 
 ### Also into
 `Kotlin` · `Python` · `Postgres` · `Spring`
-
-### Stats
-![GitHub stats](https://ghstats.dev/api/card?username=mokafs&theme=nord)
-![Top languages](https://gh-stats.work/api/top-langs?username=mokafs&theme=nord&layout=compact)
